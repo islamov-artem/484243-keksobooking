@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Исламов Артем](https://up.htmlacademy.ru/javascript/10/user/484243).
-* Наставник: `Игорь Антонов`.
+* Наставник: `Дмитрий Харин`.
 
 ---
 
